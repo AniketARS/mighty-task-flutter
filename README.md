@@ -6,8 +6,10 @@ Flutter UI for handling Projects with the team
 
 Here is a screenshot of the app:
 
+<p float="left">
 <img src="./screenshots/1.png" width="49%" />
 <img src="./screenshots/2.png" width="49%" />
+</p>
 
 ## Getting Started
 
